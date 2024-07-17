@@ -1,0 +1,2 @@
+# Shinehotelia
+hotelia
